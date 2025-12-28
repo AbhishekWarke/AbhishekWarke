@@ -5,10 +5,11 @@ I enjoy solving problems with clean, scalable code and creating technology that 
 
 ## 🏆 LeetCode Achievements
 
-<img 
-  src="https://leetcard.jacoblin.cool/AbhishekWarke?theme=dark&font=Karma&ext=badge" 
-  alt="LeetCode Stats"
-/>
+<p align="center">
+  <a href="https://leetcode.com/u/AbhishekWarke/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-50%20Days%20Streak-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
 
 
 
