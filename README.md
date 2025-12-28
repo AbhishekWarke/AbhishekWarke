@@ -3,7 +3,7 @@
 I'm a passionate Computer Science student and full-stack developer, building real-world web applications using the MERN stack and Firebase.  
 I enjoy solving problems with clean, scalable code and creating technology that makes an impact.
 
-## 🏆 LeetCode Achievements
+## 🏆 LeetCode Info
 
 <p align="center">
   <a href="https://leetcode.com/u/AbhishekWarke/" target="_blank">
