@@ -7,9 +7,10 @@ I enjoy solving problems with clean, scalable code and creating technology that 
 
 <p align="center">
   <a href="https://leetcode.com/u/AbhishekWarke/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=FFA116&center=true&vCenter=true&width=300&lines=LeetCode+50+Days+Streak;Consistent+Problem+Solver;Daily+DSA+Practice" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Nsbm1tZ2xkZ3l2YTR2c2ZkY2N0eWw2b2Z0eW55Z3ZzYjB3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKMt1VVNkHV2PaE/giphy.gif" width="120"/>
   </a>
 </p>
+
 
 
 
