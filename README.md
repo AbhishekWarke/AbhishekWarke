@@ -5,5 +5,6 @@ I enjoy solving problems with clean, scalable code and creating technology that 
 
 ## LeetCode Info
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/AbhishekWarke?theme=dark&font=Karma&ext=contest)
+<img src="https://leetcard.jacoblin.cool/AbhishekWarke?theme=dark&font=Karma&ext=badge" />
+
 
