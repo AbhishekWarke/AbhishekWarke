@@ -7,9 +7,10 @@ I enjoy solving problems with clean, scalable code and creating technology that 
 
 <p align="center">
   <a href="https://leetcode.com/u/AbhishekWarke/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-50%20Days%20Streak-orange?style=for-the-badge&logo=leetcode" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=FFA116&center=true&vCenter=true&width=300&lines=LeetCode+50+Days+Streak;Consistent+Problem+Solver;Daily+DSA+Practice" />
   </a>
 </p>
+
 
 
 
