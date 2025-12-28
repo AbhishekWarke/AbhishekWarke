@@ -6,19 +6,10 @@ I enjoy solving problems with clean, scalable code and creating technology that 
 ## 🏆 LeetCode Info
 
 <p align="center">
-  <a href="https://leetcode.com/u/AbhishekWarke/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com
-?font=Montserrat
-&pause=1200
-&color=FFA116
-&center=true
-&vCenter=true
-&width=500
-&lines=
-LeetCode+50+Days+Streak;
-Currently+Learning+and+Solving+DSA;
-Enjoy+Building+Clean+and+Creative+Web+Applications" />
+ <a href="https://leetcode.com/u/AbhishekWarke/" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1200&color=FFA116&center=true&vCenter=true&width=500&lines=LeetCode+50+Days+Streak;Currently+Learning+and+Solving+DSA;Enjoy+Building+Clean+and+Creative+Web+Applications" />
 </a>
+
 </p>
 
 
